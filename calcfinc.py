@@ -1,7 +1,10 @@
 # Trabalho Prático Módulo 1: Fundamentos de Programação para Ciência de Dados
 # Objetivo: Criar um Script em Python de calculadora financeira de juros compostos interativa
+# versao 0.1
 # Inicio: Fevereiro/2025
 # rafael.kimei@gmail.com
+
+
 
 # TODO
 # alterar a funcao fun_CalcularI para que aceite o pagamento mensal como parametro
