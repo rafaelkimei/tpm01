@@ -165,7 +165,6 @@ def main():
         fun_CalcularI(input_VF,input_CI,input_T)
       case "PGTO":
         fun_CalcularPGTO(input_VF,input_CI,input_T, input_I)
-
       case _:
         print("Comando inválido.")
 
